@@ -1,5 +1,3 @@
-# MyCrApp
-
 This is a Android mobile app built by Java with following functions:
 
 1. Uses can take photo with the internal camera.
